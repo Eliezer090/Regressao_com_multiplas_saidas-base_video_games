@@ -1,6 +1,6 @@
 # Regressao_com_multiplas_saidas-base_video_games
 Regressão com múltiplas saídas - base vídeo games<br>
-Nessa sessao foi utilziado o python para criar uma rede neural de regressao com objetivo de prever as vendas de jogos em 3 paises ou seja teremos 3 saidas na rede neural.<br>
+Sessao 07 do curso Deep Learning com Python de A a Z, foi utilizado o python para criar uma rede neural de regressao com objetivo de prever as vendas de jogos em 3 paises ou seja teremos 3 saidas na rede neural.<br>
 
 ## Arquivos
 Tem 2 pastas a files e src, na files contem a base de dados utilizada, na src contem todos os .py que é aonde é feito toda a rede neural, contem 2 .py um 
